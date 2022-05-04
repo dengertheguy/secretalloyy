@@ -1,7 +1,7 @@
 {
-  "name": "alloyproxy.org",
+  "name": "Denger Alloy",
   "description": "Easy to deploy Alloy repo.",
-  "repository": "https://github.com/titaniumnetwork-dev/alloyproxy.org",
+  "repository": "https://github.com/denger/secretalloy",
   "logo": "https://avatars1.githubusercontent.com/u/47227492?s=200&v=4",
   "keywords": ["node", "express", "ws"]
 }
