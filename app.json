@@ -2,6 +2,5 @@
   "name": "Denger Alloy",
   "description": "Easy to deploy Alloy repo.",
   "repository": "https://github.com/denger/secretalloy",
-  "logo": "https://avatars1.githubusercontent.com/u/47227492?s=200&v=4",
-  "keywords": ["node", "express", "ws"]
+  "logo": "https://user-images.githubusercontent.com/104183684/165678077-38145863-afea-4fdd-9352-3fd3f740ed4d.png",
 }
